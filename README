@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=458
+
+This plugin provides templating and automatic header updating capabilities to Vim. Header writing enables Vim to automatically write and update headers to arbitrary filetypes.  It works by a templating method, where the user provides standardized templates and when editing a new file Vim will check if a template exists for the 'filetype' and use it.  The user will then be asked to fill in some information before starting to edit the file and Vim will then use this information to generate a new file from the template. Blah, blah, ...simply download, install, run :helptags and read the provided documentation with
+             :help header-qstart
+
